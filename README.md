@@ -1,8 +1,8 @@
 #  **Learning Objectives**
 
-At the end of this project, you are expected to be able to (https://intranet.alxswe.com/rltoken/g5OVhHRsT0jjsvUI1Y8jgw "explain to anyone"), **without the help of Google**
+**This file is mandatory in projects**
 
 ## **General**
--What is a virtual machine
--What is Vagrant
--Who wrote Vagrant
+- What is a virtual machine
+- What is Vagrant
+- Who wrote Vagrant
